@@ -1,0 +1,9 @@
+this is a free ped spawner script 
+
+use this to add more peds 
+
+  {
+		model = `cs_manuel`, 
+		coords = vector4(252.2578, -1266.5022, 29.1514-1, 203.7191), 
+		gender = 'male',
+	},
